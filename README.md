@@ -145,7 +145,7 @@ Please cite our work when using this code or dataset:
 ---
 
 ## 🔗 Related Works
-- [Pointcept] (https://github.com/Pointcept/Pointcept)
+- [Pointcept](https://github.com/Pointcept/PointTransformerV3.git)
 - [SVDformer](https://github.com/czvvd/SVDFormer_PointSea)
 ---
 
