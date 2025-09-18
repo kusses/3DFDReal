@@ -133,10 +133,10 @@ Visualization (optional):
 ## 🧾 Citation
 Please cite our work when using this code or dataset:
 ```bibtex
-@article{Lim2025ETRIFashionTwin,
+@article{Lim2026DFDReal,
   title   = {3DFDReal: Real-World 3D Fashion Dataset for Virtual Try-On Applications},
   author  = {Lim, Jiyoun and et al.},
-  journal = {WACV2026},
+  journal = {TB},
   year    = {2025},
   note    = {under review}
 }
@@ -166,7 +166,6 @@ Please cite our work when using this code or dataset:
 
 ## 🙏 Acknowledgments
 - Thanks to the Pointcept team for their excellent framework.
-  https://github.com/Pointcept/Pointcept
 - Thanks to the open-source 3D fashion/point cloud community.
 
 ---
