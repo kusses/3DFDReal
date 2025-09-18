@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+*.egg-info/
+
+# Build outputs
+outputs/
+logs/
+
+# Dataset (큰 데이터는 업로드하지 말고 Hugging Face 등으로 배포)
+data/
