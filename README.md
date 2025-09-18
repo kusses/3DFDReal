@@ -1,6 +1,6 @@
-# 3DFDReal — Semantic Segmentation
+# Benchmarks for 3DFDReal Evaluation
 
-> Real-World 3D Fashion Dataset — **Semantic Segmentation code only (initial release)**
+> Real-World 3D Fashion Dataset Benchmark Evaluation
 
 ---
 
@@ -145,8 +145,8 @@ Please cite our work when using this code or dataset:
 ---
 
 ## 🔗 Related Works
-- Pointcept: https://github.com/Pointcept/Pointcept
-- Pointcept: https://github.com/Pointcept/Pointcept
+- [Pointcept] (https://github.com/Pointcept/Pointcept)
+- [SVDformer](https://github.com/czvvd/SVDFormer_PointSea)
 ---
 
 ## 🤝 Contributing
