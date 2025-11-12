@@ -159,10 +159,10 @@ Please cite our work when using this code or dataset:
 **3DFDReal dataset/annotations**: CC BY-NC 4.0 (non-commercial use only)
 > Note: The dataset usage terms are specified on the official Hugging Face dataset page. Always review and comply with them.
 
----
+%---
 
-## 👥 Authors
-- **Jiyoun Lim (@kusses), Jeong-Woo Son, Alex Lee, Sun-Joong Kim, NamKyung Lee, Wonjoo Park**
+%## 👥 Authors
+%- **Jiyoun Lim (@kusses), Jeong-Woo Son, Alex Lee, Sun-Joong Kim, NamKyung Lee, Wonjoo Park**
 
 ## 🙏 Acknowledgments
 - Thanks to the Pointcept team for their excellent framework.
