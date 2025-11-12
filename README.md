@@ -129,7 +129,7 @@ weight=[your path]/Pointcept/exp/3dfdreal/semseg-pt-v1m1_3dfdreal/model/model_be
 Visualization (optional):
 ```
 ---
-
+<!--
 ## 🧾 Citation
 Please cite our work when using this code or dataset:
 ```bibtex
@@ -141,6 +141,7 @@ Please cite our work when using this code or dataset:
   note    = {under review}
 }
 ```
+-->
 
 ---
 
