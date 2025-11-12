@@ -161,8 +161,8 @@ Please cite our work when using this code or dataset:
 
 %---
 
-%## 👥 Authors
-%- **Jiyoun Lim (@kusses), Jeong-Woo Son, Alex Lee, Sun-Joong Kim, NamKyung Lee, Wonjoo Park**
+<!--## 👥 Authors -->
+<!-- - **Jiyoun Lim (@kusses), Jeong-Woo Son, Alex Lee, Sun-Joong Kim, NamKyung Lee, Wonjoo Park** -->
 
 ## 🙏 Acknowledgments
 - Thanks to the Pointcept team for their excellent framework.
